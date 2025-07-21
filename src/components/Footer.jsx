@@ -47,8 +47,8 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/Pema_Wangchuk" target="_blank" rel="noopener noreferrer" className="icon-link">
-                <FaLinkedin size={20} /> linkedin.com/in/Pema_Wangchuk
+              <a href="https://www.linkedin.com/in/pema-wangchuk" target="_blank" rel="noopener noreferrer" className="icon-link">
+                <FaLinkedin size={20} /> linkedin.com/in/pema-wangchuk
               </a>
             </li>
           </ul>
